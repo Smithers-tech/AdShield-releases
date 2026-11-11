@@ -2,4 +2,8 @@
 # Downloaded by the Ad Shield app once a day, on top of its built-in list and the StevenBlack list.
 # One domain per line; blocking a domain also blocks everything ending in .domain
 # Lines starting with # are comments. Keep a short "# reason" comment above each group.
+# Amaze Rush 3D (2026-11-11): ad network, AppLovin axon.ai, Singular attribution links
+thecatmachine.com
+axon.ai
+sng.link
 

@@ -6,4 +6,8 @@
 thecatmachine.com
 axon.ai
 sng.link
+# Meowdoku (2026-11-11): Yandex AppMetrica analytics, Pangle ads, ad-host server on Aliyun
+appmetrica.yandex.com.tr
+tiktokpangle-b.us
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
 

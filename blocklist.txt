@@ -10,4 +10,8 @@ sng.link
 appmetrica.yandex.com.tr
 tiktokpangle-b.us
 ad-host-backup-america.oss-us-west-1.aliyuncs.com
+# Amaze Rush 3D (2026-11-11): random-word ad domain, ad server domain, ad-host server on Aliyun
+blueduckredapple.com
+foisonad.com
+ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 

@@ -15,3 +15,6 @@ blueduckredapple.com
 foisonad.com
 ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 
+# Amaze Rush 3D (2026-11-12): ad servers (maxesads, sonicsads)
+maxesads.com
+sonicsads.com

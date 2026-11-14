@@ -18,3 +18,9 @@ ad-host-backup-europe.oss-eu-central-1.aliyuncs.com
 # Amaze Rush 3D (2026-11-12): ad servers (maxesads, sonicsads)
 maxesads.com
 sonicsads.com
+
+# Meowdoku (2026-11-14): ad servers (antibanads, thecatmachine random-word domain, ad-host-backup hosts)
+antibanads.com
+thecatmachine.com
+ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com
+ad-host-backup-america.oss-us-west-1.aliyuncs.com
